@@ -90,9 +90,10 @@ def sample_subsequences(seq: list[any], l: int, valid_key, k: int = 1, max_k: bo
         for i in sorted(random.sample(indices, count)):
             i += offset
             samples.append(seq[i:i+l])
-            i += l - 1
+            offset += l - 1
 
     assert len(samples) == k
+    random.shuffle(samples)
     return samples
 
 
@@ -109,7 +110,6 @@ def main():
     lines = load_data(DATA_PATH)
     speech_blocks = parse_speakers(lines)
     subbed_speech_blocks = substitute_speaker_names(speech_blocks, roles)
-    # samples = sample_subsequences(subbed_speech_blocks, 10, lambda x: x[0] is not None, k=3)
     samples = sample_subsequences(subbed_speech_blocks, 10, lambda x: x[0] is not None, max_k=True)
     with open(BASE_PATH / Path('samples.json'), 'w', encoding='utf8') as f:
         json.dump(samples, f, indent=4)
