@@ -1,0 +1,19 @@
+<View style="display: flex; flex-direction: row;">
+  <View style="flex: 70%; overflow-y: auto; height: 70vh;">
+      <Paragraphs name="dialogue" value="$dialogue" layout="dialogue"
+                  textKey="speech" nameKey="speaker"
+      />
+  </View>
+  <View style="flex: 30%; padding-left: 20px;">
+    <Header value="Labels"/>
+    <ParagraphLabels name="label" toName="dialogue">
+      <Label alias="in_character_speech" value="In-Character Speech" />
+      <Label alias="narrative_speech" value="Narrative Speech" />
+      <Label alias="dice_rolls" value="Dice Rolls" />
+      <Label alias="narrative_suggestions" value="Narrative Suggestions" />
+      <Label alias="gameplay_negotiations" value="Gameplay Negations" />
+      <Label alias="off_record_related" value="Off-Record: Related" />
+      <Label alias="off_record_unrelated" value="Off-Record: Unrelated" />
+    </ParagraphLabels>
+  </View>
+</View>

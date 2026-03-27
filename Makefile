@@ -1,6 +1,10 @@
-.PHONY: parse-data
+.PHONY: setup label parse-data
 
-parse-data: samples.json
+setup:
+	uv run label-studio start TTRPG-Annotations --init --label-config config.xml
 
-samples.json: scripts/parse_data.py
+label:
+	uv run label-studio
+
+parse-data: scripts/parse_data.py
 	uv run scripts/parse_data.py | less
