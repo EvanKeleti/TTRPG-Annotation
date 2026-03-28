@@ -1,7 +1,8 @@
 .PHONY: setup label parse-data
 
 setup:
-	uv run label-studio start TTRPG-Annotations --init --label-config config.xml
+	uv sync
+	uv run label-studio init TTRPG-Annotations --label-config config.xml
 
 label:
 	uv run label-studio
