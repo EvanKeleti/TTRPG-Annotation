@@ -58,60 +58,70 @@
         "task_line": 0,
         "startOffset": 0,
         "endOffset": 36,
+        "text": "You just called life a kooky puzzle.",
         "label": "in_character_speech"
       },
       {
         "task_line": 1,
         "startOffset": 0,
         "endOffset": 35,
+        "text": "What's happening, what's happening?",
         "label": "in_character_speech"
       },
       {
         "task_line": 2,
         "startOffset": 0,
         "endOffset": 144,
+        "text": "It's like I'm in the middle of the desert starving, with only canned food and no can opener. I thought this fork was a can opener, but it's not!",
         "label": "in_character_speech"
       },
       {
         "task_line": 3,
         "startOffset": 0,
         "endOffset": 109,
+        "text": "It's hard for me to completely empathize, because I am immortal, but I would say that life is for the living.",
         "label": "in_character_speech"
       },
       {
         "task_line": 4,
         "startOffset": 0,
         "endOffset": 243,
+        "text": "Oh, you know what's funny about that? My whole life, I've been living for the afterlife. Everything's been a promise for the afterlife, and I don't think that's even coming, and you know what? I might be in love with a woman, and that's crazy.",
         "label": "in_character_speech"
       },
       {
         "task_line": 5,
         "startOffset": 0,
         "endOffset": 16,
+        "text": "No, that's cool.",
         "label": "in_character_speech"
       },
       {
         "task_line": 6,
         "startOffset": 0,
         "endOffset": 125,
+        "text": "No, you don't know my parents. My parents are gonna send me away to where I pray the gay away. Do you know how crazy that is?",
         "label": "in_character_speech"
       },
       {
         "task_line": 7,
         "startOffset": 0,
         "endOffset": 108,
+        "text": "Kristen, here's the good news, is that there's all this corn stuff going on, and your parents might be evil.",
         "label": "in_character_speech"
       },
       {
         "task_line": 8,
         "startOffset": 0,
         "endOffset": 44,
+        "text": "I used a corn to masturbate the other night!",
         "label": "in_character_speech"
       },
       {
         "task_line": 9,
         "startOffset": 0,
         "endOffset": 10,
+        "text": "Oh my God.",
         "label": "in_character_speech"
       }
     ]
@@ -175,78 +185,91 @@
         "task_line": 0,
         "startOffset": 0,
         "endOffset": 18,
+        "text": "That's a red flag.",
         "label": "in_character_speech"
       },
       {
         "task_line": 1,
         "startOffset": 0,
         "endOffset": 129,
+        "text": "Now, all of you guys. Twilight fades, the sun sets in the West. Skeletons charge forward as Coach Daybreak blows on his whistle. ",
         "label": "narrative_speech"
       },
       {
         "task_line": 1,
         "startOffset": 129,
         "endOffset": 158,
+        "text": "Fabian, you are first to act.",
         "label": "game_mechanics"
       },
       {
         "task_line": 2,
         "startOffset": 0,
         "endOffset": 70,
+        "text": "All right, can I first call to the Hangman? Or however we communicate?",
         "label": "narrative_suggestions"
       },
       {
         "task_line": 3,
         "startOffset": 0,
         "endOffset": 21,
+        "text": "By all means you may.",
         "label": "narrative_suggestions"
       },
       {
         "task_line": 3,
         "startOffset": 21,
         "endOffset": 22,
+        "text": " ",
         "label": "narrative_speech"
       },
       {
         "task_line": 3,
         "startOffset": 22,
         "endOffset": 53,
+        "text": "What do you say to the Hangman?",
         "label": "in_character_speech"
       },
       {
         "task_line": 4,
         "startOffset": 0,
         "endOffset": 44,
+        "text": "Hangman, to the Bloodrush field, post haste.",
         "label": "in_character_speech"
       },
       {
         "task_line": 5,
         "startOffset": 0,
         "endOffset": 46,
+        "text": "Master, I come with all the swiftness of Hell.",
         "label": "in_character_speech"
       },
       {
         "task_line": 6,
         "startOffset": 0,
         "endOffset": 14,
+        "text": "Oh, fantastic.",
         "label": "in_character_speech"
       },
       {
         "task_line": 7,
         "startOffset": 0,
         "endOffset": 50,
+        "text": "You see that the Hangman responds to you and says,",
         "label": "narrative_speech"
       },
       {
         "task_line": 8,
         "startOffset": 0,
         "endOffset": 173,
+        "text": "Right now, I am back waiting for you at the home of Kristen Applebees. I will rush there as soon as I can. But it\u2019s sunset, so it's rush hour so add 10 minutes on there to -",
         "label": "in_character_speech"
       },
       {
         "task_line": 9,
         "startOffset": 0,
         "endOffset": 50,
+        "text": "Just make sure, on the yellows, just push through.",
         "label": "in_character_speech"
       }
     ]
@@ -310,60 +333,70 @@
         "task_line": 0,
         "startOffset": 0,
         "endOffset": 19,
+        "text": "Oh, no, no, no, no.",
         "label": "in_character_speech"
       },
       {
         "task_line": 1,
         "startOffset": 0,
         "endOffset": 30,
+        "text": "I need to go in the back room!",
         "label": "in_character_speech"
       },
       {
         "task_line": 2,
         "startOffset": 0,
         "endOffset": 30,
+        "text": "You guys, I have a crazy idea.",
         "label": "in_character_speech"
       },
       {
         "task_line": 3,
         "startOffset": 0,
         "endOffset": 17,
+        "text": "Why is he so sad?",
         "label": "in_character_speech"
       },
       {
         "task_line": 4,
         "startOffset": 0,
         "endOffset": 38,
+        "text": "'Cause he's a genie, and he can only -",
         "label": "in_character_speech"
       },
       {
         "task_line": 5,
         "startOffset": 0,
         "endOffset": 24,
+        "text": "He's living on a thread!",
         "label": "in_character_speech"
       },
       {
         "task_line": 6,
         "startOffset": 0,
         "endOffset": 35,
+        "text": "He can only grant ice cream wishes.",
         "label": "in_character_speech"
       },
       {
         "task_line": 7,
         "startOffset": 0,
         "endOffset": 22,
+        "text": "But we love ice cream!",
         "label": "in_character_speech"
       },
       {
         "task_line": 8,
         "startOffset": 0,
         "endOffset": 53,
+        "text": "You guys, I think I might try to join the Harvestmen.",
         "label": "in_character_speech"
       },
       {
         "task_line": 9,
         "startOffset": 0,
         "endOffset": 37,
+        "text": "I mean, could you do that much lying?",
         "label": "in_character_speech"
       }
     ]
@@ -427,60 +460,70 @@
         "task_line": 0,
         "startOffset": 0,
         "endOffset": 22,
+        "text": "Well, call them first.",
         "label": "in_character_speech"
       },
       {
         "task_line": 1,
         "startOffset": 0,
         "endOffset": 89,
+        "text": "Yes, but let's check on this van really quickly. Yeah, call your parents on the way down.",
         "label": "in_character_speech"
       },
       {
         "task_line": 2,
         "startOffset": 0,
         "endOffset": 11,
+        "text": "Okay, cool.",
         "label": "in_character_speech"
       },
       {
         "task_line": 3,
         "startOffset": 0,
         "endOffset": 51,
+        "text": "You call your parents, your mom picks up the phone.",
         "label": "narrative_speech"
       },
       {
         "task_line": 4,
         "startOffset": 0,
         "endOffset": 72,
+        "text": "Kristen, there's been an awful emergency. You gotta come home right now.",
         "label": "in_character_speech"
       },
       {
         "task_line": 5,
         "startOffset": 0,
         "endOffset": 20,
+        "text": "Okay, what happened?",
         "label": "in_character_speech"
       },
       {
         "task_line": 6,
         "startOffset": 0,
         "endOffset": 29,
+        "text": "Alright, come home right now.",
         "label": "in_character_speech"
       },
       {
         "task_line": 7,
         "startOffset": 0,
         "endOffset": 14,
+        "text": "What happened?",
         "label": "in_character_speech"
       },
       {
         "task_line": 8,
         "startOffset": 0,
         "endOffset": 43,
+        "text": "Come home right now. I gotta go, all right?",
         "label": "in_character_speech"
       },
       {
         "task_line": 9,
         "startOffset": 0,
         "endOffset": 23,
+        "text": "Can I bring my friends?",
         "label": "in_character_speech"
       }
     ]
@@ -544,66 +587,77 @@
         "task_line": 0,
         "startOffset": 0,
         "endOffset": 27,
+        "text": "You see she says, she says,",
         "label": "narrative_speech"
       },
       {
         "task_line": 1,
         "startOffset": 0,
         "endOffset": 34,
+        "text": "All right we'll take you downtown.",
         "label": "in_character_speech"
       },
       {
         "task_line": 2,
         "startOffset": 0,
         "endOffset": 124,
+        "text": "You guys get loaded into a cruiser brought downtown, you get some fast food brought to you, you hang out for a little while.",
         "label": "narrative_speech"
       },
       {
         "task_line": 3,
         "startOffset": 0,
         "endOffset": 10,
+        "text": "Delicious.",
         "label": "in_character_speech"
       },
       {
         "task_line": 4,
         "startOffset": 0,
         "endOffset": 17,
+        "text": "I eat none of it.",
         "label": "narrative_speech"
       },
       {
         "task_line": 5,
         "startOffset": 0,
         "endOffset": 10,
+        "text": "I eat his.",
         "label": "narrative_speech"
       },
       {
         "task_line": 6,
         "startOffset": 0,
         "endOffset": 55,
+        "text": "I'm gonna go ahead and do a little bit of downtime now.",
         "label": "game_mechanics"
       },
       {
         "task_line": 6,
         "startOffset": 55,
         "endOffset": 191,
+        "text": " Your guys\u2019 defeat of Coach Daybreak and the evidence brought to Detective Gukgak completely dissembles the Harvestmen Cult in Elmville.",
         "label": "narrative_speech"
       },
       {
         "task_line": 7,
         "startOffset": 0,
         "endOffset": 10,
+        "text": "Heck yeah.",
         "label": "off_record_related"
       },
       {
         "task_line": 8,
         "startOffset": 0,
         "endOffset": 128,
+        "text": "Over the next couple of days Detective Gukgak goes to fucking work. These homes are raided, including the home of the Applebees.",
         "label": "narrative_speech"
       },
       {
         "task_line": 9,
         "startOffset": 0,
         "endOffset": 4,
+        "text": "Wow.",
         "label": "off_record_related"
       }
     ]
@@ -667,60 +721,70 @@
         "task_line": 0,
         "startOffset": 0,
         "endOffset": 48,
+        "text": "Just because I'm like, I'm afraid, I can't move.",
         "label": "narrative_speech"
       },
       {
         "task_line": 1,
         "startOffset": 0,
         "endOffset": 9,
+        "text": "Sure, go.",
         "label": "game_mechanics"
       },
       {
         "task_line": 2,
         "startOffset": 0,
         "endOffset": 34,
+        "text": "This is a thing I can do that will",
         "label": "gameplay_negotiations"
       },
       {
         "task_line": 3,
         "startOffset": 0,
         "endOffset": 25,
+        "text": "Help me get out of there.",
         "label": "in_character_speech"
       },
       {
         "task_line": 4,
         "startOffset": 0,
         "endOffset": 121,
+        "text": "Go ahead and make an Arcana check. Call it a DC 15 for you to be good enough at magic that feels intuitive for you to do.",
         "label": "game_mechanics"
       },
       {
         "task_line": 5,
         "startOffset": 0,
         "endOffset": 12,
+        "text": "Great. Nope.",
         "label": "off_record_related"
       },
       {
         "task_line": 6,
         "startOffset": 0,
         "endOffset": 19,
+        "text": "You just gotta run.",
         "label": "narrative_suggestions"
       },
       {
         "task_line": 7,
         "startOffset": 0,
         "endOffset": 39,
+        "text": "Wow, imagine if we ever fucking rolled\u2014",
         "label": "off_record_related"
       },
       {
         "task_line": 8,
         "startOffset": 0,
         "endOffset": 35,
+        "text": "I think you can go through Kristen.",
         "label": "gameplay_negotiations"
       },
       {
         "task_line": 9,
         "startOffset": 0,
         "endOffset": 28,
+        "text": "Yeah can I use Kristen as a,",
         "label": "narrative_suggestions"
       }
     ]
@@ -784,60 +848,70 @@
         "task_line": 0,
         "startOffset": 0,
         "endOffset": 137,
+        "text": "Cool, you just get in front of Riz. Then that's going to be Ragh. Ragh stands up. And he's swinging right for Riz baby. That's gonna be -",
         "label": "narrative_speech"
       },
       {
         "task_line": 1,
         "startOffset": 0,
         "endOffset": 5,
+        "text": "Fuck!",
         "label": "off_record_related"
       },
       {
         "task_line": 2,
         "startOffset": 0,
         "endOffset": 10,
+        "text": "17 damage.",
         "label": "game_mechanics"
       },
       {
         "task_line": 3,
         "startOffset": 0,
         "endOffset": 5,
+        "text": "Fuck!",
         "label": "off_record_related"
       },
       {
         "task_line": 4,
         "startOffset": 0,
         "endOffset": 6,
+        "text": "First.",
         "label": "game_mechanics"
       },
       {
         "task_line": 5,
         "startOffset": 0,
         "endOffset": 30,
+        "text": "And then, next takes 8 damage.",
         "label": "game_mechanics"
       },
       {
         "task_line": 6,
         "startOffset": 0,
         "endOffset": 16,
+        "text": "Okay. I have 15.",
         "label": "game_mechanics"
       },
       {
         "task_line": 7,
         "startOffset": 0,
         "endOffset": 15,
+        "text": "Ragh just says,",
         "label": "narrative_speech"
       },
       {
         "task_line": 8,
         "startOffset": 0,
         "endOffset": 20,
+        "text": "Rawh, bam, bam, bam.",
         "label": "in_character_speech"
       },
       {
         "task_line": 9,
         "startOffset": 0,
         "endOffset": 64,
+        "text": "This is the same turn as the skeletons got a crack at me, right?",
         "label": "game_mechanics"
       }
     ]
@@ -901,72 +975,84 @@
         "task_line": 0,
         "startOffset": 0,
         "endOffset": 26,
+        "text": "Adaine, it's gonna be you.",
         "label": "game_mechanics"
       },
       {
         "task_line": 1,
         "startOffset": 0,
         "endOffset": 66,
+        "text": "I am going to use Mage Hand to throw dust in Johnny Spells's face.",
         "label": "narrative_speech"
       },
       {
         "task_line": 2,
         "startOffset": 0,
         "endOffset": 4,
+        "text": "Ooh!",
         "label": "off_record_related"
       },
       {
         "task_line": 3,
         "startOffset": 0,
         "endOffset": 25,
+        "text": "Yeah, kick up some dust. ",
         "label": "narrative_speech"
       },
       {
         "task_line": 3,
         "startOffset": 25,
         "endOffset": 75,
+        "text": "Go ahead and give me like a Sleight of Hand check.",
         "label": "game_mechanics"
       },
       {
         "task_line": 4,
         "startOffset": 0,
         "endOffset": 26,
+        "text": "Great. 20, not nat but 20.",
         "label": "game_mechanics"
       },
       {
         "task_line": 5,
         "startOffset": 0,
         "endOffset": 15,
+        "text": "Full 20, cool. ",
         "label": "game_mechanics"
       },
       {
         "task_line": 5,
         "startOffset": 15,
         "endOffset": 71,
+        "text": "A little dust storm kicks a bunch of dust into his face.",
         "label": "narrative_speech"
       },
       {
         "task_line": 6,
         "startOffset": 0,
         "endOffset": 39,
+        "text": "Boys, they're concentratin' on me, why?",
         "label": "in_character_speech"
       },
       {
         "task_line": 7,
         "startOffset": 0,
         "endOffset": 26,
+        "text": "You're the leader, Johnny!",
         "label": "in_character_speech"
       },
       {
         "task_line": 8,
         "startOffset": 0,
         "endOffset": 63,
+        "text": "You see that, that's now gonna be Fig. Make a Perception check.",
         "label": "game_mechanics"
       },
       {
         "task_line": 9,
         "startOffset": 0,
         "endOffset": 49,
+        "text": "Okay, make a Perception check, okay. I got, a 20.",
         "label": "game_mechanics"
       }
     ]
@@ -1030,60 +1116,70 @@
         "task_line": 0,
         "startOffset": 0,
         "endOffset": 43,
+        "text": "You're getting worse. You're getting worse.",
         "label": "off_record_related"
       },
       {
         "task_line": 1,
         "startOffset": 0,
         "endOffset": 18,
+        "text": "It only uses what?",
         "label": "gameplay_negotiations"
       },
       {
         "task_line": 2,
         "startOffset": 0,
         "endOffset": 68,
+        "text": "Yeah, do more people get to do it? Do you get to do several targets?",
         "label": "gameplay_negotiations"
       },
       {
         "task_line": 3,
         "startOffset": 0,
         "endOffset": 40,
+        "text": "You can do multiple targets if you want.",
         "label": "game_mechanics"
       },
       {
         "task_line": 4,
         "startOffset": 0,
         "endOffset": 44,
+        "text": "Oh, then hell yeah. Who else do I, you, Riz?",
         "label": "off_record_related"
       },
       {
         "task_line": 5,
         "startOffset": 0,
         "endOffset": 23,
+        "text": "So you have 20 points -",
         "label": "game_mechanics"
       },
       {
         "task_line": 6,
         "startOffset": 0,
         "endOffset": 32,
+        "text": "I'm good, 'cause she healed me -",
         "label": "game_mechanics"
       },
       {
         "task_line": 7,
         "startOffset": 0,
         "endOffset": 28,
+        "text": "I\u2019m at 13. Oh yeah, us two -",
         "label": "game_mechanics"
       },
       {
         "task_line": 8,
         "startOffset": 0,
         "endOffset": 13,
+        "text": "He\u2019s in bad -",
         "label": "off_record_related"
       },
       {
         "task_line": 9,
         "startOffset": 0,
         "endOffset": 9,
+        "text": "I could -",
         "label": "narrative_suggestions"
       }
     ]
@@ -1147,60 +1243,70 @@
         "task_line": 0,
         "startOffset": 0,
         "endOffset": 211,
+        "text": "And it's always, like, of course girls are gonna go for Johnny Spells 'cause he has a motorcycle and is super in shape, but like, there's nice guys who, honestly, have a lot to offer that they would like never -",
         "label": "in_character_speech"
       },
       {
         "task_line": 1,
         "startOffset": 0,
         "endOffset": 150,
+        "text": "I mean - Oh, I hate that I'm gonna even tell you this but like I think that you feel like you have a lot to offer, and please take this the right way.",
         "label": "in_character_speech"
       },
       {
         "task_line": 2,
         "startOffset": 0,
         "endOffset": 5,
+        "text": "Sure.",
         "label": "in_character_speech"
       },
       {
         "task_line": 3,
         "startOffset": 0,
         "endOffset": 10,
+        "text": "You don't.",
         "label": "in_character_speech"
       },
       {
         "task_line": 4,
         "startOffset": 0,
         "endOffset": 64,
+        "text": "Hard to see a great way to take that, if I'm being super honest.",
         "label": "in_character_speech"
       },
       {
         "task_line": 5,
         "startOffset": 0,
         "endOffset": 295,
+        "text": "What are you doing to work on yourself to make yourself more interesting and attractive? Are you thinking that women should change themselves, and lower their standards, in order to date you? I'm saying this to you now because like I really think it will help you, even though it's very hurtful.",
         "label": "in_character_speech"
       },
       {
         "task_line": 6,
         "startOffset": 0,
         "endOffset": 88,
+        "text": "It's like Siobhan didn't say vicious mockery, but I think she's casting vicious mockery.",
         "label": "off_record_related"
       },
       {
         "task_line": 7,
         "startOffset": 0,
         "endOffset": 40,
+        "text": "You see he thinks for a second and goes,",
         "label": "narrative_speech"
       },
       {
         "task_line": 8,
         "startOffset": 0,
         "endOffset": 163,
+        "text": "Okay, uh. Well, I'll get started on doing this really dangerous thing for you guys. I guess I'll take the switch comb and palimpsest, and you guys just. I'm sorry.",
         "label": "in_character_speech"
       },
       {
         "task_line": 9,
         "startOffset": 0,
         "endOffset": 111,
+        "text": "I don't know if we should just leave these with you. I think there's dangerous people who are maybe after this.",
         "label": "in_character_speech"
       }
     ]

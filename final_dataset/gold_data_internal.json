@@ -58,60 +58,70 @@
         "task_line": 0,
         "startOffset": 0,
         "endOffset": 83,
+        "text": "Excuse me? You've been hanging out with Gilear and eating dinner with him too long.",
         "label": "in_character_speech"
       },
       {
         "task_line": 1,
         "startOffset": 0,
         "endOffset": 51,
+        "text": "Anyway, thank you, Fabian, we really appreciate it.",
         "label": "in_character_speech"
       },
       {
         "task_line": 2,
         "startOffset": 0,
         "endOffset": 38,
+        "text": "Yeah, we really appreciate it, Fabian.",
         "label": "in_character_speech"
       },
       {
         "task_line": 3,
         "startOffset": 0,
         "endOffset": 18,
+        "text": "Thank you, Fabian.",
         "label": "in_character_speech"
       },
       {
         "task_line": 4,
         "startOffset": 0,
         "endOffset": 62,
+        "text": "You see Gilear walking into the room where you're hanging out.",
         "label": "narrative_speech"
       },
       {
         "task_line": 5,
         "startOffset": 0,
         "endOffset": 21,
+        "text": "More turkey crackers?",
         "label": "in_character_speech"
       },
       {
         "task_line": 6,
         "startOffset": 0,
         "endOffset": 18,
+        "text": "Oh no, we're okay.",
         "label": "in_character_speech"
       },
       {
         "task_line": 7,
         "startOffset": 0,
         "endOffset": 18,
+        "text": "I really couldn't.",
         "label": "in_character_speech"
       },
       {
         "task_line": 8,
         "startOffset": 0,
         "endOffset": 15,
+        "text": "Yeah, I'm full.",
         "label": "in_character_speech"
       },
       {
         "task_line": 9,
         "startOffset": 0,
         "endOffset": 11,
+        "text": "Yes please.",
         "label": "in_character_speech"
       }
     ]
@@ -175,66 +185,77 @@
         "task_line": 0,
         "startOffset": 0,
         "endOffset": 53,
+        "text": "Oh, it\u2019s the pantry? The thing\u2019s going to the pantry?",
         "label": "off_record_related"
       },
       {
         "task_line": 1,
         "startOffset": 0,
         "endOffset": 17,
+        "text": "Yeah, okay. Cool.",
         "label": "off_record_related"
       },
       {
         "task_line": 2,
         "startOffset": 0,
         "endOffset": 13,
+        "text": "Great, great.",
         "label": "off_record_related"
       },
       {
         "task_line": 3,
         "startOffset": 0,
         "endOffset": 27,
+        "text": "\u201cIt's going to the pantry.\u201d",
         "label": "off_record_related"
       },
       {
         "task_line": 4,
         "startOffset": 0,
         "endOffset": 24,
+        "text": "That's gonna now be Riz.",
         "label": "game_mechanics"
       },
       {
         "task_line": 5,
         "startOffset": 0,
         "endOffset": 35,
+        "text": "I'm pretty sure it's going to the -",
         "label": "off_record_related"
       },
       {
         "task_line": 6,
         "startOffset": 0,
         "endOffset": 97,
+        "text": "I'm going to, just in case things get crazy at the pantry, I'm gonna try to get a little closer. ",
         "label": "narrative_speech"
       },
       {
         "task_line": 6,
         "startOffset": 97,
         "endOffset": 133,
+        "text": "How close can I get here, 5, 10, 20.",
         "label": "game_mechanics"
       },
       {
         "task_line": 7,
         "startOffset": 0,
         "endOffset": 60,
+        "text": "You could always hide under my dead body, I'm offering that.",
         "label": "off_record_related"
       },
       {
         "task_line": 8,
         "startOffset": 0,
         "endOffset": 70,
+        "text": "I'm gonna try to get here, and try to shoot this guy in the corn hole.",
         "label": "narrative_speech"
       },
       {
         "task_line": 9,
         "startOffset": 0,
         "endOffset": 27,
+        "text": "Shoot him in the corn hole.",
         "label": "off_record_related"
       }
     ]
@@ -298,60 +319,70 @@
         "task_line": 0,
         "startOffset": 0,
         "endOffset": 26,
+        "text": "Can I do an Insight check?",
         "label": "narrative_suggestions"
       },
       {
         "task_line": 1,
         "startOffset": 0,
         "endOffset": 5,
+        "text": "Yeah.",
         "label": "game_mechanics"
       },
       {
         "task_line": 2,
         "startOffset": 0,
         "endOffset": 2,
+        "text": "6.",
         "label": "game_mechanics"
       },
       {
         "task_line": 3,
         "startOffset": 0,
         "endOffset": 3,
+        "text": "25.",
         "label": "game_mechanics"
       },
       {
         "task_line": 4,
         "startOffset": 0,
         "endOffset": 3,
+        "text": "25.",
         "label": "game_mechanics"
       },
       {
         "task_line": 5,
         "startOffset": 0,
         "endOffset": 12,
+        "text": "Oh, a Nat 1.",
         "label": "game_mechanics"
       },
       {
         "task_line": 6,
         "startOffset": 0,
         "endOffset": 91,
+        "text": "Tracker looks to be like high school age, she looks like she might be 16, like a sophomore.",
         "label": "narrative_speech"
       },
       {
         "task_line": 7,
         "startOffset": 0,
         "endOffset": 6,
+        "text": "Sweet.",
         "label": "off_record_related"
       },
       {
         "task_line": 8,
         "startOffset": 0,
         "endOffset": 25,
+        "text": "You're all good, Kristen.",
         "label": "in_character_speech"
       },
       {
         "task_line": 9,
         "startOffset": 0,
         "endOffset": 53,
+        "text": "What, oh no\u00a0you're\u00a0all good. These guys won't let me.",
         "label": "in_character_speech"
       }
     ]
@@ -415,60 +446,70 @@
         "task_line": 0,
         "startOffset": 0,
         "endOffset": 97,
+        "text": "Cool, am I able to do an insight check and try to get more answers about why the fuck we're here?",
         "label": "narrative_suggestions"
       },
       {
         "task_line": 1,
         "startOffset": 0,
         "endOffset": 46,
+        "text": "Yeah, tell me what you're having insight into.",
         "label": "narrative_suggestions"
       },
       {
         "task_line": 2,
         "startOffset": 0,
         "endOffset": 82,
+        "text": "Can I watch, like, the perimeter and see if anything's coming in, or if it, like -",
         "label": "narrative_suggestions"
       },
       {
         "task_line": 3,
         "startOffset": 0,
         "endOffset": 26,
+        "text": "Sure, watch the perimeter.",
         "label": "narrative_suggestions"
       },
       {
         "task_line": 4,
         "startOffset": 0,
         "endOffset": 19,
+        "text": "All right. Nat one.",
         "label": "game_mechanics"
       },
       {
         "task_line": 5,
         "startOffset": 0,
         "endOffset": 25,
+        "text": "Always with the nat ones.",
         "label": "off_record_related"
       },
       {
         "task_line": 6,
         "startOffset": 0,
         "endOffset": 36,
+        "text": "Perimeter's good, everything's good.",
         "label": "narrative_speech"
       },
       {
         "task_line": 7,
         "startOffset": 0,
         "endOffset": 10,
+        "text": "Oh, great.",
         "label": "off_record_related"
       },
       {
         "task_line": 8,
         "startOffset": 0,
         "endOffset": 28,
+        "text": "Honestly? This fight's good.",
         "label": "off_record_related"
       },
       {
         "task_line": 9,
         "startOffset": 0,
         "endOffset": 28,
+        "text": "Honestly, everything's fine.",
         "label": "off_record_related"
       }
     ]
@@ -532,60 +573,70 @@
         "task_line": 0,
         "startOffset": 0,
         "endOffset": 37,
+        "text": "Can I go put my hand on her shoulder.",
         "label": "narrative_suggestions"
       },
       {
         "task_line": 1,
         "startOffset": 0,
         "endOffset": 25,
+        "text": "It's for the best, truly.",
         "label": "in_character_speech"
       },
       {
         "task_line": 2,
         "startOffset": 0,
         "endOffset": 414,
+        "text": "Adaine, so everyone else is bickering and arguing, and your keen elven senses follow the owl. You survey this, Cravencroft is a large cemetery. On multiple trees, around the edge of the cemetery, you begin to count, there are about seven or eight owls watching the cemetery. And as you skirt the edges, in the long grasses towards the fence, you notice about 10 or 12 cats, that you just clock all of them at once.",
         "label": "narrative_speech"
       },
       {
         "task_line": 3,
         "startOffset": 0,
         "endOffset": 18,
+        "text": "Everybody shut up.",
         "label": "in_character_speech"
       },
       {
         "task_line": 4,
         "startOffset": 0,
         "endOffset": 10,
+        "text": "What, why?",
         "label": "in_character_speech"
       },
       {
         "task_line": 5,
         "startOffset": 0,
         "endOffset": 4,
+        "text": "Why?",
         "label": "in_character_speech"
       },
       {
         "task_line": 6,
         "startOffset": 0,
         "endOffset": 11,
+        "text": "It was hot.",
         "label": "in_character_speech"
       },
       {
         "task_line": 7,
         "startOffset": 0,
         "endOffset": 75,
+        "text": "Did you see that sexy rat? How are we supposed to come back from that shit.",
         "label": "in_character_speech"
       },
       {
         "task_line": 8,
         "startOffset": 0,
         "endOffset": 25,
+        "text": "That owl was so sexy too.",
         "label": "in_character_speech"
       },
       {
         "task_line": 9,
         "startOffset": 0,
         "endOffset": 60,
+        "text": "I need you to, I'm trying to tell you important information.",
         "label": "in_character_speech"
       }
     ]
@@ -649,60 +700,70 @@
         "task_line": 0,
         "startOffset": 0,
         "endOffset": 25,
+        "text": "Yeah, they definitely do.",
         "label": "off_record_related"
       },
       {
         "task_line": 1,
         "startOffset": 0,
         "endOffset": 18,
+        "text": "They have Zelda --",
         "label": "off_record_related"
       },
       {
         "task_line": 2,
         "startOffset": 0,
         "endOffset": 71,
+        "text": "It\u2019s Katja, Antiope, Penelope, Penny, Danielle, Sam, Ostentatia, Zelda.",
         "label": "off_record_related"
       },
       {
         "task_line": 3,
         "startOffset": 0,
         "endOffset": 90,
+        "text": "Just making sure one of us wasn't part of the plan so we knew that ahead of time going in.",
         "label": "off_record_related"
       },
       {
         "task_line": 4,
         "startOffset": 0,
         "endOffset": 5,
+        "text": "Okay.",
         "label": "off_record_related"
       },
       {
         "task_line": 5,
         "startOffset": 0,
         "endOffset": 12,
+        "text": "We all fuck.",
         "label": "off_record_related"
       },
       {
         "task_line": 6,
         "startOffset": 0,
         "endOffset": 42,
+        "text": "Because that would be a fucking twist if--",
         "label": "off_record_related"
       },
       {
         "task_line": 7,
         "startOffset": 0,
         "endOffset": 40,
+        "text": "I mean none of us are virgins obviously.",
         "label": "off_record_related"
       },
       {
         "task_line": 8,
         "startOffset": 0,
         "endOffset": 29,
+        "text": "Yeah, we all do it. We do it.",
         "label": "off_record_related"
       },
       {
         "task_line": 9,
         "startOffset": 0,
         "endOffset": 61,
+        "text": "Everyone add 11 hit points for my amazingly inspiring speech.",
         "label": "game_mechanics"
       }
     ]
@@ -766,78 +827,91 @@
         "task_line": 0,
         "startOffset": 0,
         "endOffset": 3,
+        "text": "11.",
         "label": "game_mechanics"
       },
       {
         "task_line": 1,
         "startOffset": 0,
         "endOffset": 61,
+        "text": "11 to hit the ooze, that hits. Yeah, he ain't wearing armor. ",
         "label": "game_mechanics"
       },
       {
         "task_line": 1,
         "startOffset": 61,
         "endOffset": 100,
+        "text": "Oh by the way, what's your armor class?",
         "label": "gameplay_negotiations"
       },
       {
         "task_line": 1,
         "startOffset": 100,
         "endOffset": 101,
+        "text": " ",
         "label": "game_mechanics"
       },
       {
         "task_line": 1,
         "startOffset": 101,
         "endOffset": 150,
+        "text": "Doesn't matter the corn gremlin does not hit you.",
         "label": "narrative_speech"
       },
       {
         "task_line": 2,
         "startOffset": 0,
         "endOffset": 61,
+        "text": "Great, do I add a Bless to my, not to the damage roll, right?",
         "label": "gameplay_negotiations"
       },
       {
         "task_line": 3,
         "startOffset": 0,
         "endOffset": 23,
+        "text": "Not to the damage roll.",
         "label": "gameplay_negotiations"
       },
       {
         "task_line": 4,
         "startOffset": 0,
         "endOffset": 10,
+        "text": "Great. 12.",
         "label": "game_mechanics"
       },
       {
         "task_line": 5,
         "startOffset": 0,
         "endOffset": 5,
+        "text": "Nice.",
         "label": "off_record_related"
       },
       {
         "task_line": 6,
         "startOffset": 0,
         "endOffset": 95,
+        "text": "Ooh, shit, you see that the ooze does not like that, and considers wheeling around to face you.",
         "label": "narrative_speech"
       },
       {
         "task_line": 7,
         "startOffset": 0,
         "endOffset": 5,
+        "text": "Whoa.",
         "label": "off_record_related"
       },
       {
         "task_line": 8,
         "startOffset": 0,
         "endOffset": 38,
+        "text": "You see that the lunch lady, gets up -",
         "label": "narrative_speech"
       },
       {
         "task_line": 9,
         "startOffset": 0,
         "endOffset": 36,
+        "text": "Please come touch me with that ooze.",
         "label": "off_record_related"
       }
     ]
@@ -901,60 +975,70 @@
         "task_line": 0,
         "startOffset": 0,
         "endOffset": 57,
+        "text": "If you do need a Ball, we definitely have a Ball, but I -",
         "label": "in_character_speech"
       },
       {
         "task_line": 1,
         "startOffset": 0,
         "endOffset": 32,
+        "text": "He was built for being the Ball.",
         "label": "in_character_speech"
       },
       {
         "task_line": 2,
         "startOffset": 0,
         "endOffset": 29,
+        "text": "But I do also play Bloodrush.",
         "label": "in_character_speech"
       },
       {
         "task_line": 3,
         "startOffset": 0,
         "endOffset": 33,
+        "text": "You see he looks at you and says,",
         "label": "narrative_speech"
       },
       {
         "task_line": 4,
         "startOffset": 0,
         "endOffset": 106,
+        "text": "Listen, sorry guys, we already had tryouts. We had them at the Durinson Mithril Factory and you're all in.",
         "label": "in_character_speech"
       },
       {
         "task_line": 5,
         "startOffset": 0,
         "endOffset": 56,
+        "text": "What, I'm sorry, I'm sorry, what, we're all on the team?",
         "label": "in_character_speech"
       },
       {
         "task_line": 6,
         "startOffset": 0,
         "endOffset": 22,
+        "text": "We\u2019re all on the team?",
         "label": "in_character_speech"
       },
       {
         "task_line": 7,
         "startOffset": 0,
         "endOffset": 5,
+        "text": "What?",
         "label": "in_character_speech"
       },
       {
         "task_line": 8,
         "startOffset": 0,
         "endOffset": 11,
+        "text": "I thought -",
         "label": "in_character_speech"
       },
       {
         "task_line": 9,
         "startOffset": 0,
         "endOffset": 9,
+        "text": "Anybody -",
         "label": "in_character_speech"
       }
     ]
@@ -1018,60 +1102,70 @@
         "task_line": 0,
         "startOffset": 0,
         "endOffset": 118,
+        "text": "And there is just a, about eight foot tall, rail thin, maybe like 110 pound, undertaker, standing in the midst of you.",
         "label": "narrative_speech"
       },
       {
         "task_line": 1,
         "startOffset": 0,
         "endOffset": 24,
+        "text": "Where did you come from?",
         "label": "in_character_speech"
       },
       {
         "task_line": 2,
         "startOffset": 0,
         "endOffset": 14,
+        "text": "Yeah, exactly!",
         "label": "in_character_speech"
       },
       {
         "task_line": 3,
         "startOffset": 0,
         "endOffset": 28,
+        "text": "I work here at the cemetery.",
         "label": "in_character_speech"
       },
       {
         "task_line": 4,
         "startOffset": 0,
         "endOffset": 10,
+        "text": "Yes, but -",
         "label": "in_character_speech"
       },
       {
         "task_line": 5,
         "startOffset": 0,
         "endOffset": 38,
+        "text": "No, but you weren't here a second ago.",
         "label": "in_character_speech"
       },
       {
         "task_line": 6,
         "startOffset": 0,
         "endOffset": 12,
+        "text": "I walked up.",
         "label": "in_character_speech"
       },
       {
         "task_line": 7,
         "startOffset": 0,
         "endOffset": 27,
+        "text": "Is it cool if I smoke here?",
         "label": "in_character_speech"
       },
       {
         "task_line": 8,
         "startOffset": 0,
         "endOffset": 4,
+        "text": "Yes.",
         "label": "in_character_speech"
       },
       {
         "task_line": 9,
         "startOffset": 0,
         "endOffset": 5,
+        "text": "Okay.",
         "label": "in_character_speech"
       }
     ]
@@ -1135,60 +1229,70 @@
         "task_line": 0,
         "startOffset": 0,
         "endOffset": 27,
+        "text": "Yeah, we'll see you Sunday.",
         "label": "in_character_speech"
       },
       {
         "task_line": 1,
         "startOffset": 0,
         "endOffset": 34,
+        "text": "See you around, see you on Sunday.",
         "label": "in_character_speech"
       },
       {
         "task_line": 2,
         "startOffset": 0,
         "endOffset": 13,
+        "text": "See ya. Shit.",
         "label": "in_character_speech"
       },
       {
         "task_line": 3,
         "startOffset": 0,
         "endOffset": 529,
+        "text": "Uh, you walk from that extremely horrifying encounter with Coach Daybreak. You guys head out from there. You guys see, as you're walking out of school to go ahead to the cemetery, which is actually not too far away, you can see it's sort of right nearby, so it's easy to walk. You pass, you see there's like, a little grand opening of a little chain bank next to the school, sort of opening up. You see it sort of smells like paint coming out of it. You see this big, three red letters, KVX on it, KVX Bank, as you're walking by.",
         "label": "narrative_speech"
       },
       {
         "task_line": 4,
         "startOffset": 0,
         "endOffset": 66,
+        "text": "Uh, can we hop in and see if there's any like, free pens or like -",
         "label": "narrative_suggestions"
       },
       {
         "task_line": 5,
         "startOffset": 0,
         "endOffset": 13,
+        "text": "Or lollipops.",
         "label": "in_character_speech"
       },
       {
         "task_line": 6,
         "startOffset": 0,
         "endOffset": 81,
+        "text": "Okay, why do we need anything? We will just go buy better things if we want them.",
         "label": "in_character_speech"
       },
       {
         "task_line": 7,
         "startOffset": 0,
         "endOffset": 18,
+        "text": "What, okay, well -",
         "label": "in_character_speech"
       },
       {
         "task_line": 8,
         "startOffset": 0,
         "endOffset": 92,
+        "text": "Can I just look in the glass real quick, just see if anybody's weird's in there or anything.",
         "label": "narrative_suggestions"
       },
       {
         "task_line": 9,
         "startOffset": 0,
         "endOffset": 31,
+        "text": "Yeah, can I like, check it out?",
         "label": "narrative_suggestions"
       }
     ]

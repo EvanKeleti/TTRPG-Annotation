@@ -7,6 +7,7 @@ import numpy as np
 BASE_PATH = Path(__file__).parent.parent
 INTERNAL = BASE_PATH / Path('annotations_internal')
 EXTERNAL = BASE_PATH / Path('annotations_external')
+FINAL_DATA = BASE_PATH / Path('final_dataset')
 
 labels = [
     "in_character_speech",
@@ -19,7 +20,7 @@ labels = [
 ]
 
 
-def load_annotations(directory: Path | str) -> tuple[dict[int, dict], dict[int, dict]]:
+def load_annotations(directory: Path | str) -> tuple[dict[int, dict[str, list[int, int, str]]], dict[int, dict]]:
     files = list(Path(directory).glob('*.json'))
     annotations = {}
     for file in files:
@@ -56,7 +57,7 @@ def find_disagreeing_tasks(results, tasks):
     return list(dis_tasks)
 
 
-def fleiss_kappa(results: dict[dict[tuple[int, int, str]]], tasks: dict[int, dict]) -> float:
+def fleiss_kappa(results: dict[int, dict[str, list[tuple[int, int, str]]]], tasks: dict[int, dict]) -> float:
     label_vals = {label: i for i, label in enumerate(labels)}
     n = 0
     per_item = 0
@@ -104,11 +105,35 @@ def majority_vote(results, tasks):
                         'task_line': i,
                         'startOffset': int(start),
                         'endOffset': int(end),
-                        'label': labels[majority[start]]
+                        'text': line['speech'][start:end],
+                        'label': labels[majority[start]],
                     }
                 )
         data.append({'start_line': tid, 'data': task, 'annotations': majority_annotations})
     return data
+
+
+def create_final_annotation_file(results, tasks, file: Path | str) -> None:
+    data = []
+    for tid, task in tasks.items():
+        annotations = {}
+        for line in task:
+            line_num = line['line_num']
+            line_annotations = []
+            for annotator, annotation in results[line_num].items():
+                for span in annotation:
+                    line_annotations.append({
+                        'annotator': annotator,
+                        'startOffset': span[0],
+                        'endOffset': span[1],
+                        'text': line['speech'][span[0]:span[1]],
+                        'label': span[2],
+                    })
+            annotations[line_num] = line_annotations
+        data.append({'start_line': tid, 'data': task, 'annotations': annotations})
+
+    with open(Path(file), 'w') as f:
+        json.dump(data, f, indent=2)
 
 
 def main():
@@ -120,12 +145,14 @@ def main():
     print(f"External annotations kappa: {kappa:.2f}")
 
     majority_annotations_int = majority_vote(results_int, tasks_int)
-    with open(BASE_PATH / Path('gold_data_internal.json'), 'w') as f:
+    with open(FINAL_DATA / Path('gold_data_internal.json'), 'w') as f:
         json.dump(majority_annotations_int, f, indent=2)
-
     majority_annotations_ext = majority_vote(results_ext, tasks_ext)
-    with open(BASE_PATH / Path('gold_data_external.json'), 'w') as f:
+    with open(FINAL_DATA / Path('gold_data_external.json'), 'w') as f:
         json.dump(majority_annotations_ext, f, indent=2)
+
+    create_final_annotation_file(results_int, tasks_int, FINAL_DATA / Path('internal_annotations.json'))
+    create_final_annotation_file(results_ext, tasks_ext, FINAL_DATA / Path('external_annotations.json'))
 
 
 if __name__ == '__main__':
