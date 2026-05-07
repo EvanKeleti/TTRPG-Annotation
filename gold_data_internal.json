@@ -1,0 +1,1196 @@
+[
+  {
+    "start_line": 30211,
+    "data": [
+      {
+        "speaker": "Ally (Kristen)",
+        "speech": "Excuse me? You've been hanging out with Gilear and eating dinner with him too long.",
+        "line_num": 30211
+      },
+      {
+        "speaker": "Murph (Riz)",
+        "speech": "Anyway, thank you, Fabian, we really appreciate it.",
+        "line_num": 30213
+      },
+      {
+        "speaker": "Ally (Kristen)",
+        "speech": "Yeah, we really appreciate it, Fabian.",
+        "line_num": 30215
+      },
+      {
+        "speaker": "Siobhan (Adaine)",
+        "speech": "Thank you, Fabian.",
+        "line_num": 30217
+      },
+      {
+        "speaker": "Brennan (Dungeon Master)",
+        "speech": "You see Gilear walking into the room where you're hanging out.",
+        "line_num": 30219
+      },
+      {
+        "speaker": "Brennan (Dungeon Master) (Gilear)",
+        "speech": "More turkey crackers?",
+        "line_num": 30221
+      },
+      {
+        "speaker": "Ally (Kristen)",
+        "speech": "Oh no, we're okay.",
+        "line_num": 30223
+      },
+      {
+        "speaker": "Lou (Fabian)",
+        "speech": "I really couldn't.",
+        "line_num": 30225
+      },
+      {
+        "speaker": "Siobhan (Adaine)",
+        "speech": "Yeah, I'm full.",
+        "line_num": 30227
+      },
+      {
+        "speaker": "Emily (Fig)",
+        "speech": "Yes please.",
+        "line_num": 30229
+      }
+    ],
+    "annotations": [
+      {
+        "task_line": 0,
+        "startOffset": 0,
+        "endOffset": 83,
+        "label": "in_character_speech"
+      },
+      {
+        "task_line": 1,
+        "startOffset": 0,
+        "endOffset": 51,
+        "label": "in_character_speech"
+      },
+      {
+        "task_line": 2,
+        "startOffset": 0,
+        "endOffset": 38,
+        "label": "in_character_speech"
+      },
+      {
+        "task_line": 3,
+        "startOffset": 0,
+        "endOffset": 18,
+        "label": "in_character_speech"
+      },
+      {
+        "task_line": 4,
+        "startOffset": 0,
+        "endOffset": 62,
+        "label": "narrative_speech"
+      },
+      {
+        "task_line": 5,
+        "startOffset": 0,
+        "endOffset": 21,
+        "label": "in_character_speech"
+      },
+      {
+        "task_line": 6,
+        "startOffset": 0,
+        "endOffset": 18,
+        "label": "in_character_speech"
+      },
+      {
+        "task_line": 7,
+        "startOffset": 0,
+        "endOffset": 18,
+        "label": "in_character_speech"
+      },
+      {
+        "task_line": 8,
+        "startOffset": 0,
+        "endOffset": 15,
+        "label": "in_character_speech"
+      },
+      {
+        "task_line": 9,
+        "startOffset": 0,
+        "endOffset": 11,
+        "label": "in_character_speech"
+      }
+    ]
+  },
+  {
+    "start_line": 3540,
+    "data": [
+      {
+        "speaker": "Lou (Fabian)",
+        "speech": "Oh, it\u2019s the pantry? The thing\u2019s going to the pantry?",
+        "line_num": 3540
+      },
+      {
+        "speaker": "Murph (Riz)",
+        "speech": "Yeah, okay. Cool.",
+        "line_num": 3542
+      },
+      {
+        "speaker": "Lou (Fabian)",
+        "speech": "Great, great.",
+        "line_num": 3544
+      },
+      {
+        "speaker": "Ally (Kristen)",
+        "speech": "\u201cIt's going to the pantry.\u201d",
+        "line_num": 3546
+      },
+      {
+        "speaker": "Brennan (Dungeon Master)",
+        "speech": "That's gonna now be Riz.",
+        "line_num": 3548
+      },
+      {
+        "speaker": "Zac (Gorgug)",
+        "speech": "I'm pretty sure it's going to the -",
+        "line_num": 3550
+      },
+      {
+        "speaker": "Murph (Riz)",
+        "speech": "I'm going to, just in case things get crazy at the pantry, I'm gonna try to get a little closer. How close can I get here, 5, 10, 20.",
+        "line_num": 3552
+      },
+      {
+        "speaker": "Emily (Fig)",
+        "speech": "You could always hide under my dead body, I'm offering that.",
+        "line_num": 3554
+      },
+      {
+        "speaker": "Murph (Riz)",
+        "speech": "I'm gonna try to get here, and try to shoot this guy in the corn hole.",
+        "line_num": 3556
+      },
+      {
+        "speaker": "Lou (Fabian)",
+        "speech": "Shoot him in the corn hole.",
+        "line_num": 3558
+      }
+    ],
+    "annotations": [
+      {
+        "task_line": 0,
+        "startOffset": 0,
+        "endOffset": 53,
+        "label": "off_record_related"
+      },
+      {
+        "task_line": 1,
+        "startOffset": 0,
+        "endOffset": 17,
+        "label": "off_record_related"
+      },
+      {
+        "task_line": 2,
+        "startOffset": 0,
+        "endOffset": 13,
+        "label": "off_record_related"
+      },
+      {
+        "task_line": 3,
+        "startOffset": 0,
+        "endOffset": 27,
+        "label": "off_record_related"
+      },
+      {
+        "task_line": 4,
+        "startOffset": 0,
+        "endOffset": 24,
+        "label": "game_mechanics"
+      },
+      {
+        "task_line": 5,
+        "startOffset": 0,
+        "endOffset": 35,
+        "label": "off_record_related"
+      },
+      {
+        "task_line": 6,
+        "startOffset": 0,
+        "endOffset": 97,
+        "label": "narrative_speech"
+      },
+      {
+        "task_line": 6,
+        "startOffset": 97,
+        "endOffset": 133,
+        "label": "game_mechanics"
+      },
+      {
+        "task_line": 7,
+        "startOffset": 0,
+        "endOffset": 60,
+        "label": "off_record_related"
+      },
+      {
+        "task_line": 8,
+        "startOffset": 0,
+        "endOffset": 70,
+        "label": "narrative_speech"
+      },
+      {
+        "task_line": 9,
+        "startOffset": 0,
+        "endOffset": 27,
+        "label": "off_record_related"
+      }
+    ]
+  },
+  {
+    "start_line": 29969,
+    "data": [
+      {
+        "speaker": "Zac (Gorgug)",
+        "speech": "Can I do an Insight check?",
+        "line_num": 29969
+      },
+      {
+        "speaker": "Brennan (Dungeon Master)",
+        "speech": "Yeah.",
+        "line_num": 29971
+      },
+      {
+        "speaker": "Zac (Gorgug)",
+        "speech": "6.",
+        "line_num": 29973
+      },
+      {
+        "speaker": "Murph (Riz)",
+        "speech": "25.",
+        "line_num": 29975
+      },
+      {
+        "speaker": "Brennan (Dungeon Master)",
+        "speech": "25.",
+        "line_num": 29977
+      },
+      {
+        "speaker": "Siobhan (Adaine)",
+        "speech": "Oh, a Nat 1.",
+        "line_num": 29979
+      },
+      {
+        "speaker": "Brennan (Dungeon Master)",
+        "speech": "Tracker looks to be like high school age, she looks like she might be 16, like a sophomore.",
+        "line_num": 29981
+      },
+      {
+        "speaker": "Emily (Fig)",
+        "speech": "Sweet.",
+        "line_num": 29983
+      },
+      {
+        "speaker": "Murph (Riz)",
+        "speech": "You're all good, Kristen.",
+        "line_num": 29985
+      },
+      {
+        "speaker": "Ally (Kristen)",
+        "speech": "What, oh no\u00a0you're\u00a0all good. These guys won't let me.",
+        "line_num": 29987
+      }
+    ],
+    "annotations": [
+      {
+        "task_line": 0,
+        "startOffset": 0,
+        "endOffset": 26,
+        "label": "narrative_suggestions"
+      },
+      {
+        "task_line": 1,
+        "startOffset": 0,
+        "endOffset": 5,
+        "label": "game_mechanics"
+      },
+      {
+        "task_line": 2,
+        "startOffset": 0,
+        "endOffset": 2,
+        "label": "game_mechanics"
+      },
+      {
+        "task_line": 3,
+        "startOffset": 0,
+        "endOffset": 3,
+        "label": "game_mechanics"
+      },
+      {
+        "task_line": 4,
+        "startOffset": 0,
+        "endOffset": 3,
+        "label": "game_mechanics"
+      },
+      {
+        "task_line": 5,
+        "startOffset": 0,
+        "endOffset": 12,
+        "label": "game_mechanics"
+      },
+      {
+        "task_line": 6,
+        "startOffset": 0,
+        "endOffset": 91,
+        "label": "narrative_speech"
+      },
+      {
+        "task_line": 7,
+        "startOffset": 0,
+        "endOffset": 6,
+        "label": "off_record_related"
+      },
+      {
+        "task_line": 8,
+        "startOffset": 0,
+        "endOffset": 25,
+        "label": "in_character_speech"
+      },
+      {
+        "task_line": 9,
+        "startOffset": 0,
+        "endOffset": 53,
+        "label": "in_character_speech"
+      }
+    ]
+  },
+  {
+    "start_line": 20506,
+    "data": [
+      {
+        "speaker": "Ally (Kristen)",
+        "speech": "Cool, am I able to do an insight check and try to get more answers about why the fuck we're here?",
+        "line_num": 20506
+      },
+      {
+        "speaker": "Brennan (Dungeon Master)",
+        "speech": "Yeah, tell me what you're having insight into.",
+        "line_num": 20508
+      },
+      {
+        "speaker": "Ally (Kristen)",
+        "speech": "Can I watch, like, the perimeter and see if anything's coming in, or if it, like -",
+        "line_num": 20510
+      },
+      {
+        "speaker": "Brennan (Dungeon Master)",
+        "speech": "Sure, watch the perimeter.",
+        "line_num": 20512
+      },
+      {
+        "speaker": "Ally (Kristen)",
+        "speech": "All right. Nat one.",
+        "line_num": 20514
+      },
+      {
+        "speaker": "Murph (Riz)",
+        "speech": "Always with the nat ones.",
+        "line_num": 20516
+      },
+      {
+        "speaker": "Brennan (Dungeon Master)",
+        "speech": "Perimeter's good, everything's good.",
+        "line_num": 20518
+      },
+      {
+        "speaker": "Ally (Kristen)",
+        "speech": "Oh, great.",
+        "line_num": 20520
+      },
+      {
+        "speaker": "Brennan (Dungeon Master)",
+        "speech": "Honestly? This fight's good.",
+        "line_num": 20522
+      },
+      {
+        "speaker": "Murph (Riz)",
+        "speech": "Honestly, everything's fine.",
+        "line_num": 20524
+      }
+    ],
+    "annotations": [
+      {
+        "task_line": 0,
+        "startOffset": 0,
+        "endOffset": 97,
+        "label": "narrative_suggestions"
+      },
+      {
+        "task_line": 1,
+        "startOffset": 0,
+        "endOffset": 46,
+        "label": "narrative_suggestions"
+      },
+      {
+        "task_line": 2,
+        "startOffset": 0,
+        "endOffset": 82,
+        "label": "narrative_suggestions"
+      },
+      {
+        "task_line": 3,
+        "startOffset": 0,
+        "endOffset": 26,
+        "label": "narrative_suggestions"
+      },
+      {
+        "task_line": 4,
+        "startOffset": 0,
+        "endOffset": 19,
+        "label": "game_mechanics"
+      },
+      {
+        "task_line": 5,
+        "startOffset": 0,
+        "endOffset": 25,
+        "label": "off_record_related"
+      },
+      {
+        "task_line": 6,
+        "startOffset": 0,
+        "endOffset": 36,
+        "label": "narrative_speech"
+      },
+      {
+        "task_line": 7,
+        "startOffset": 0,
+        "endOffset": 10,
+        "label": "off_record_related"
+      },
+      {
+        "task_line": 8,
+        "startOffset": 0,
+        "endOffset": 28,
+        "label": "off_record_related"
+      },
+      {
+        "task_line": 9,
+        "startOffset": 0,
+        "endOffset": 28,
+        "label": "off_record_related"
+      }
+    ]
+  },
+  {
+    "start_line": 18064,
+    "data": [
+      {
+        "speaker": "Lou (Fabian)",
+        "speech": "Can I go put my hand on her shoulder.",
+        "line_num": 18064
+      },
+      {
+        "speaker": "Lou (Fabian)",
+        "speech": "It's for the best, truly.",
+        "line_num": 18066
+      },
+      {
+        "speaker": "Brennan (Dungeon Master)",
+        "speech": "Adaine, so everyone else is bickering and arguing, and your keen elven senses follow the owl. You survey this, Cravencroft is a large cemetery. On multiple trees, around the edge of the cemetery, you begin to count, there are about seven or eight owls watching the cemetery. And as you skirt the edges, in the long grasses towards the fence, you notice about 10 or 12 cats, that you just clock all of them at once.",
+        "line_num": 18068
+      },
+      {
+        "speaker": "Siobhan (Adaine)",
+        "speech": "Everybody shut up.",
+        "line_num": 18070
+      },
+      {
+        "speaker": "Ally (Kristen)",
+        "speech": "What, why?",
+        "line_num": 18072
+      },
+      {
+        "speaker": "Lou (Fabian)",
+        "speech": "Why?",
+        "line_num": 18074
+      },
+      {
+        "speaker": "Ally (Kristen)",
+        "speech": "It was hot.",
+        "line_num": 18076
+      },
+      {
+        "speaker": "Lou (Fabian)",
+        "speech": "Did you see that sexy rat? How are we supposed to come back from that shit.",
+        "line_num": 18078
+      },
+      {
+        "speaker": "Ally (Kristen)",
+        "speech": "That owl was so sexy too.",
+        "line_num": 18080
+      },
+      {
+        "speaker": "Siobhan (Adaine)",
+        "speech": "I need you to, I'm trying to tell you important information.",
+        "line_num": 18082
+      }
+    ],
+    "annotations": [
+      {
+        "task_line": 0,
+        "startOffset": 0,
+        "endOffset": 37,
+        "label": "narrative_suggestions"
+      },
+      {
+        "task_line": 1,
+        "startOffset": 0,
+        "endOffset": 25,
+        "label": "in_character_speech"
+      },
+      {
+        "task_line": 2,
+        "startOffset": 0,
+        "endOffset": 414,
+        "label": "narrative_speech"
+      },
+      {
+        "task_line": 3,
+        "startOffset": 0,
+        "endOffset": 18,
+        "label": "in_character_speech"
+      },
+      {
+        "task_line": 4,
+        "startOffset": 0,
+        "endOffset": 10,
+        "label": "in_character_speech"
+      },
+      {
+        "task_line": 5,
+        "startOffset": 0,
+        "endOffset": 4,
+        "label": "in_character_speech"
+      },
+      {
+        "task_line": 6,
+        "startOffset": 0,
+        "endOffset": 11,
+        "label": "in_character_speech"
+      },
+      {
+        "task_line": 7,
+        "startOffset": 0,
+        "endOffset": 75,
+        "label": "in_character_speech"
+      },
+      {
+        "task_line": 8,
+        "startOffset": 0,
+        "endOffset": 25,
+        "label": "in_character_speech"
+      },
+      {
+        "task_line": 9,
+        "startOffset": 0,
+        "endOffset": 60,
+        "label": "in_character_speech"
+      }
+    ]
+  },
+  {
+    "start_line": 49361,
+    "data": [
+      {
+        "speaker": "Siobhan (Adaine)",
+        "speech": "Yeah, they definitely do.",
+        "line_num": 49361
+      },
+      {
+        "speaker": "Emily (Fig)",
+        "speech": "They have Zelda --",
+        "line_num": 49364
+      },
+      {
+        "speaker": "Brennan (Dungeon Master)",
+        "speech": "It\u2019s Katja, Antiope, Penelope, Penny, Danielle, Sam, Ostentatia, Zelda.",
+        "line_num": 49367
+      },
+      {
+        "speaker": "Murph (Riz)",
+        "speech": "Just making sure one of us wasn't part of the plan so we knew that ahead of time going in.",
+        "line_num": 49370
+      },
+      {
+        "speaker": "Ally (Kristen)",
+        "speech": "Okay.",
+        "line_num": 49373
+      },
+      {
+        "speaker": "Zac (Gorgug)",
+        "speech": "We all fuck.",
+        "line_num": 49376
+      },
+      {
+        "speaker": "Murph (Riz)",
+        "speech": "Because that would be a fucking twist if--",
+        "line_num": 49379
+      },
+      {
+        "speaker": "Siobhan (Adaine)",
+        "speech": "I mean none of us are virgins obviously.",
+        "line_num": 49382
+      },
+      {
+        "speaker": "Emily (Fig)",
+        "speech": "Yeah, we all do it. We do it.",
+        "line_num": 49385
+      },
+      {
+        "speaker": "Ally (Kristen)",
+        "speech": "Everyone add 11 hit points for my amazingly inspiring speech.",
+        "line_num": 49388
+      }
+    ],
+    "annotations": [
+      {
+        "task_line": 0,
+        "startOffset": 0,
+        "endOffset": 25,
+        "label": "off_record_related"
+      },
+      {
+        "task_line": 1,
+        "startOffset": 0,
+        "endOffset": 18,
+        "label": "off_record_related"
+      },
+      {
+        "task_line": 2,
+        "startOffset": 0,
+        "endOffset": 71,
+        "label": "off_record_related"
+      },
+      {
+        "task_line": 3,
+        "startOffset": 0,
+        "endOffset": 90,
+        "label": "off_record_related"
+      },
+      {
+        "task_line": 4,
+        "startOffset": 0,
+        "endOffset": 5,
+        "label": "off_record_related"
+      },
+      {
+        "task_line": 5,
+        "startOffset": 0,
+        "endOffset": 12,
+        "label": "off_record_related"
+      },
+      {
+        "task_line": 6,
+        "startOffset": 0,
+        "endOffset": 42,
+        "label": "off_record_related"
+      },
+      {
+        "task_line": 7,
+        "startOffset": 0,
+        "endOffset": 40,
+        "label": "off_record_related"
+      },
+      {
+        "task_line": 8,
+        "startOffset": 0,
+        "endOffset": 29,
+        "label": "off_record_related"
+      },
+      {
+        "task_line": 9,
+        "startOffset": 0,
+        "endOffset": 61,
+        "label": "game_mechanics"
+      }
+    ]
+  },
+  {
+    "start_line": 3798,
+    "data": [
+      {
+        "speaker": "Lou (Fabian)",
+        "speech": "11.",
+        "line_num": 3798
+      },
+      {
+        "speaker": "Brennan (Dungeon Master)",
+        "speech": "11 to hit the ooze, that hits. Yeah, he ain't wearing armor. Oh by the way, what's your armor class? Doesn't matter the corn gremlin does not hit you.",
+        "line_num": 3800
+      },
+      {
+        "speaker": "Lou (Fabian)",
+        "speech": "Great, do I add a Bless to my, not to the damage roll, right?",
+        "line_num": 3802
+      },
+      {
+        "speaker": "Brennan (Dungeon Master)",
+        "speech": "Not to the damage roll.",
+        "line_num": 3804
+      },
+      {
+        "speaker": "Lou (Fabian)",
+        "speech": "Great. 12.",
+        "line_num": 3806
+      },
+      {
+        "speaker": "Murph (Riz)",
+        "speech": "Nice.",
+        "line_num": 3808
+      },
+      {
+        "speaker": "Brennan (Dungeon Master)",
+        "speech": "Ooh, shit, you see that the ooze does not like that, and considers wheeling around to face you.",
+        "line_num": 3810
+      },
+      {
+        "speaker": "Emily (Fig)",
+        "speech": "Whoa.",
+        "line_num": 3812
+      },
+      {
+        "speaker": "Brennan (Dungeon Master)",
+        "speech": "You see that the lunch lady, gets up -",
+        "line_num": 3814
+      },
+      {
+        "speaker": "Lou (Fabian)",
+        "speech": "Please come touch me with that ooze.",
+        "line_num": 3816
+      }
+    ],
+    "annotations": [
+      {
+        "task_line": 0,
+        "startOffset": 0,
+        "endOffset": 3,
+        "label": "game_mechanics"
+      },
+      {
+        "task_line": 1,
+        "startOffset": 0,
+        "endOffset": 61,
+        "label": "game_mechanics"
+      },
+      {
+        "task_line": 1,
+        "startOffset": 61,
+        "endOffset": 100,
+        "label": "gameplay_negotiations"
+      },
+      {
+        "task_line": 1,
+        "startOffset": 100,
+        "endOffset": 101,
+        "label": "game_mechanics"
+      },
+      {
+        "task_line": 1,
+        "startOffset": 101,
+        "endOffset": 150,
+        "label": "narrative_speech"
+      },
+      {
+        "task_line": 2,
+        "startOffset": 0,
+        "endOffset": 61,
+        "label": "gameplay_negotiations"
+      },
+      {
+        "task_line": 3,
+        "startOffset": 0,
+        "endOffset": 23,
+        "label": "gameplay_negotiations"
+      },
+      {
+        "task_line": 4,
+        "startOffset": 0,
+        "endOffset": 10,
+        "label": "game_mechanics"
+      },
+      {
+        "task_line": 5,
+        "startOffset": 0,
+        "endOffset": 5,
+        "label": "off_record_related"
+      },
+      {
+        "task_line": 6,
+        "startOffset": 0,
+        "endOffset": 95,
+        "label": "narrative_speech"
+      },
+      {
+        "task_line": 7,
+        "startOffset": 0,
+        "endOffset": 5,
+        "label": "off_record_related"
+      },
+      {
+        "task_line": 8,
+        "startOffset": 0,
+        "endOffset": 38,
+        "label": "narrative_speech"
+      },
+      {
+        "task_line": 9,
+        "startOffset": 0,
+        "endOffset": 36,
+        "label": "off_record_related"
+      }
+    ]
+  },
+  {
+    "start_line": 29741,
+    "data": [
+      {
+        "speaker": "Lou (Fabian)",
+        "speech": "If you do need a Ball, we definitely have a Ball, but I -",
+        "line_num": 29741
+      },
+      {
+        "speaker": "Ally (Kristen)",
+        "speech": "He was built for being the Ball.",
+        "line_num": 29743
+      },
+      {
+        "speaker": "Lou (Fabian)",
+        "speech": "But I do also play Bloodrush.",
+        "line_num": 29745
+      },
+      {
+        "speaker": "Brennan (Dungeon Master)",
+        "speech": "You see he looks at you and says,",
+        "line_num": 29747
+      },
+      {
+        "speaker": "Brennan (Dungeon Master) (Gorthalax)",
+        "speech": "Listen, sorry guys, we already had tryouts. We had them at the Durinson Mithril Factory and you're all in.",
+        "line_num": 29749
+      },
+      {
+        "speaker": "Lou (Fabian)",
+        "speech": "What, I'm sorry, I'm sorry, what, we're all on the team?",
+        "line_num": 29751
+      },
+      {
+        "speaker": "Murph (Riz)",
+        "speech": "We\u2019re all on the team?",
+        "line_num": 29753
+      },
+      {
+        "speaker": "Ally (Kristen)",
+        "speech": "What?",
+        "line_num": 29755
+      },
+      {
+        "speaker": "Siobhan (Adaine)",
+        "speech": "I thought -",
+        "line_num": 29757
+      },
+      {
+        "speaker": "Brennan (Dungeon Master) (Gorthalax)",
+        "speech": "Anybody -",
+        "line_num": 29759
+      }
+    ],
+    "annotations": [
+      {
+        "task_line": 0,
+        "startOffset": 0,
+        "endOffset": 57,
+        "label": "in_character_speech"
+      },
+      {
+        "task_line": 1,
+        "startOffset": 0,
+        "endOffset": 32,
+        "label": "in_character_speech"
+      },
+      {
+        "task_line": 2,
+        "startOffset": 0,
+        "endOffset": 29,
+        "label": "in_character_speech"
+      },
+      {
+        "task_line": 3,
+        "startOffset": 0,
+        "endOffset": 33,
+        "label": "narrative_speech"
+      },
+      {
+        "task_line": 4,
+        "startOffset": 0,
+        "endOffset": 106,
+        "label": "in_character_speech"
+      },
+      {
+        "task_line": 5,
+        "startOffset": 0,
+        "endOffset": 56,
+        "label": "in_character_speech"
+      },
+      {
+        "task_line": 6,
+        "startOffset": 0,
+        "endOffset": 22,
+        "label": "in_character_speech"
+      },
+      {
+        "task_line": 7,
+        "startOffset": 0,
+        "endOffset": 5,
+        "label": "in_character_speech"
+      },
+      {
+        "task_line": 8,
+        "startOffset": 0,
+        "endOffset": 11,
+        "label": "in_character_speech"
+      },
+      {
+        "task_line": 9,
+        "startOffset": 0,
+        "endOffset": 9,
+        "label": "in_character_speech"
+      }
+    ]
+  },
+  {
+    "start_line": 18144,
+    "data": [
+      {
+        "speaker": "Brennan (Dungeon Master)",
+        "speech": "And there is just a, about eight foot tall, rail thin, maybe like 110 pound, undertaker, standing in the midst of you.",
+        "line_num": 18144
+      },
+      {
+        "speaker": "Zac (Gorgug)",
+        "speech": "Where did you come from?",
+        "line_num": 18146
+      },
+      {
+        "speaker": "Lou (Fabian)",
+        "speech": "Yeah, exactly!",
+        "line_num": 18148
+      },
+      {
+        "speaker": "Brennan (Dungeon Master) (Undertaker)",
+        "speech": "I work here at the cemetery.",
+        "line_num": 18150
+      },
+      {
+        "speaker": "Ally (Kristen)",
+        "speech": "Yes, but -",
+        "line_num": 18152
+      },
+      {
+        "speaker": "Siobhan (Adaine)",
+        "speech": "No, but you weren't here a second ago.",
+        "line_num": 18154
+      },
+      {
+        "speaker": "Brennan (Dungeon Master) (Undertaker)",
+        "speech": "I walked up.",
+        "line_num": 18156
+      },
+      {
+        "speaker": "Emily (Fig)",
+        "speech": "Is it cool if I smoke here?",
+        "line_num": 18158
+      },
+      {
+        "speaker": "Brennan (Dungeon Master) (Undertaker)",
+        "speech": "Yes.",
+        "line_num": 18160
+      },
+      {
+        "speaker": "Emily (Fig)",
+        "speech": "Okay.",
+        "line_num": 18162
+      }
+    ],
+    "annotations": [
+      {
+        "task_line": 0,
+        "startOffset": 0,
+        "endOffset": 118,
+        "label": "narrative_speech"
+      },
+      {
+        "task_line": 1,
+        "startOffset": 0,
+        "endOffset": 24,
+        "label": "in_character_speech"
+      },
+      {
+        "task_line": 2,
+        "startOffset": 0,
+        "endOffset": 14,
+        "label": "in_character_speech"
+      },
+      {
+        "task_line": 3,
+        "startOffset": 0,
+        "endOffset": 28,
+        "label": "in_character_speech"
+      },
+      {
+        "task_line": 4,
+        "startOffset": 0,
+        "endOffset": 10,
+        "label": "in_character_speech"
+      },
+      {
+        "task_line": 5,
+        "startOffset": 0,
+        "endOffset": 38,
+        "label": "in_character_speech"
+      },
+      {
+        "task_line": 6,
+        "startOffset": 0,
+        "endOffset": 12,
+        "label": "in_character_speech"
+      },
+      {
+        "task_line": 7,
+        "startOffset": 0,
+        "endOffset": 27,
+        "label": "in_character_speech"
+      },
+      {
+        "task_line": 8,
+        "startOffset": 0,
+        "endOffset": 4,
+        "label": "in_character_speech"
+      },
+      {
+        "task_line": 9,
+        "startOffset": 0,
+        "endOffset": 5,
+        "label": "in_character_speech"
+      }
+    ]
+  },
+  {
+    "start_line": 17784,
+    "data": [
+      {
+        "speaker": "Ally (Kristen)",
+        "speech": "Yeah, we'll see you Sunday.",
+        "line_num": 17784
+      },
+      {
+        "speaker": "Brennan (Dungeon Master) (Daybreak)",
+        "speech": "See you around, see you on Sunday.",
+        "line_num": 17786
+      },
+      {
+        "speaker": "Ally (Kristen)",
+        "speech": "See ya. Shit.",
+        "line_num": 17788
+      },
+      {
+        "speaker": "Brennan (Dungeon Master)",
+        "speech": "Uh, you walk from that extremely horrifying encounter with Coach Daybreak. You guys head out from there. You guys see, as you're walking out of school to go ahead to the cemetery, which is actually not too far away, you can see it's sort of right nearby, so it's easy to walk. You pass, you see there's like, a little grand opening of a little chain bank next to the school, sort of opening up. You see it sort of smells like paint coming out of it. You see this big, three red letters, KVX on it, KVX Bank, as you're walking by.",
+        "line_num": 17790
+      },
+      {
+        "speaker": "Ally (Kristen)",
+        "speech": "Uh, can we hop in and see if there's any like, free pens or like -",
+        "line_num": 17792
+      },
+      {
+        "speaker": "Emily (Fig)",
+        "speech": "Or lollipops.",
+        "line_num": 17794
+      },
+      {
+        "speaker": "Lou (Fabian)",
+        "speech": "Okay, why do we need anything? We will just go buy better things if we want them.",
+        "line_num": 17796
+      },
+      {
+        "speaker": "Ally (Kristen)",
+        "speech": "What, okay, well -",
+        "line_num": 17798
+      },
+      {
+        "speaker": "Murph (Riz)",
+        "speech": "Can I just look in the glass real quick, just see if anybody's weird's in there or anything.",
+        "line_num": 17800
+      },
+      {
+        "speaker": "Ally (Kristen)",
+        "speech": "Yeah, can I like, check it out?",
+        "line_num": 17802
+      }
+    ],
+    "annotations": [
+      {
+        "task_line": 0,
+        "startOffset": 0,
+        "endOffset": 27,
+        "label": "in_character_speech"
+      },
+      {
+        "task_line": 1,
+        "startOffset": 0,
+        "endOffset": 34,
+        "label": "in_character_speech"
+      },
+      {
+        "task_line": 2,
+        "startOffset": 0,
+        "endOffset": 13,
+        "label": "in_character_speech"
+      },
+      {
+        "task_line": 3,
+        "startOffset": 0,
+        "endOffset": 529,
+        "label": "narrative_speech"
+      },
+      {
+        "task_line": 4,
+        "startOffset": 0,
+        "endOffset": 66,
+        "label": "narrative_suggestions"
+      },
+      {
+        "task_line": 5,
+        "startOffset": 0,
+        "endOffset": 13,
+        "label": "in_character_speech"
+      },
+      {
+        "task_line": 6,
+        "startOffset": 0,
+        "endOffset": 81,
+        "label": "in_character_speech"
+      },
+      {
+        "task_line": 7,
+        "startOffset": 0,
+        "endOffset": 18,
+        "label": "in_character_speech"
+      },
+      {
+        "task_line": 8,
+        "startOffset": 0,
+        "endOffset": 92,
+        "label": "narrative_suggestions"
+      },
+      {
+        "task_line": 9,
+        "startOffset": 0,
+        "endOffset": 31,
+        "label": "narrative_suggestions"
+      }
+    ]
+  }
+]
