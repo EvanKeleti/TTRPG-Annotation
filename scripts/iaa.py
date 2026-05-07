@@ -119,9 +119,13 @@ def main():
     kappa = fleiss_kappa(results_ext, tasks_ext)
     print(f"External annotations kappa: {kappa:.2f}")
 
-    majority_annotations = majority_vote(results_int, tasks_int)
-    with open(BASE_PATH / Path('gold_data.json'), 'w') as f:
-        json.dump(majority_annotations, f, indent=2)
+    majority_annotations_int = majority_vote(results_int, tasks_int)
+    with open(BASE_PATH / Path('gold_data_internal.json'), 'w') as f:
+        json.dump(majority_annotations_int, f, indent=2)
+
+    majority_annotations_ext = majority_vote(results_ext, tasks_ext)
+    with open(BASE_PATH / Path('gold_data_external.json'), 'w') as f:
+        json.dump(majority_annotations_ext, f, indent=2)
 
 
 if __name__ == '__main__':
